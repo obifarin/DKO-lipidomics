@@ -28,17 +28,14 @@ Setup python environment with dko-gatech.yml in the terminal
 <table>
   <tr>
     <th>Name</th>
-    <th>Age</th>
-    <th>City</th>
+    <th>Description</th>
   </tr>
   <tr>
-    <td>John Doe</td>
-    <td>32</td>
-    <td>New York</td>
+    <td>1_global_lipidomic_changes.ipynb</td>
+    <td>Global significant changes: univariate statistical testing and unsupervised learning.</td>
   </tr>
   <tr>
     <td>Jane Smith</td>
     <td>27</td>
-    <td>San Francisco</td>
   </tr>
 </table>
