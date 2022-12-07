@@ -19,10 +19,11 @@ git clone https://github.com/obifarin/DKO-lipidomics
 
 (or use a git GUI client of your choice)
 
-## 2. Environment setup
+## 2. Environment setup and access jupyter notebooks
 Setup python environment with dko-gatech.yml in the terminal 
 
 (or use anaconda GUI.)
 
 
+## 3. Notebook contents
 
