@@ -42,4 +42,8 @@ Setup python environment with dko-gatech.yml in the terminal
     <td>3_machine_learning_DKO_classification.ipynb</td>
     <td>Time-resolved machine learning discriminates tumor stages of HGSC in DKO mice.</td>
   </tr>
+    <tr>
+    <td>4_survival_analysis_prognostics.ipynb</td>
+    <td>Prognostic circulating lipids in DKO mice.</td>
+  </tr>
 </table>
