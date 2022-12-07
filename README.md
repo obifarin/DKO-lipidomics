@@ -5,6 +5,8 @@ Code base for the study: "Machine Learning Reveals Lipidome Remodeling Dynamics 
 ## Requirements
 
 - __[Anaconda](https://www.anaconda.com/)__
+- __[Python >= 3.8.8](https://www.python.org/downloads/)__
+- __[Jupyter](https://jupyter.org/install)__
 
 Notebook titles are self explanatory. 
 
