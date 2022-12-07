@@ -8,10 +8,8 @@ Code base for the study: **"Machine Learning Reveals Lipidome Remodeling Dynamic
 - __[Python >= 3.8.8](https://www.python.org/downloads/)__
 - __[Jupyter](https://jupyter.org/install)__
 
-Notebook titles are self explanatory. 
 
-
-## 1. git repository
+### 1. git repository
 
 Clone local copy of git repository
 
@@ -19,11 +17,11 @@ git clone https://github.com/obifarin/DKO-lipidomics
 
 (or use a git GUI client of your choice)
 
-## 2. Environment setup and access jupyter notebooks
+### 2. Environment setup and access jupyter notebooks
 Setup python environment with dko-gatech.yml in the terminal 
 
 (or use anaconda GUI.)
 
 
-## 3. Notebook contents
+### 3. Notebook contents
 
