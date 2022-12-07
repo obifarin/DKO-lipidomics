@@ -25,3 +25,20 @@ Setup python environment with dko-gatech.yml in the terminal
 
 ### 3. Notebook contents
 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>City</th>
+  </tr>
+  <tr>
+    <td>John Doe</td>
+    <td>32</td>
+    <td>New York</td>
+  </tr>
+  <tr>
+    <td>Jane Smith</td>
+    <td>27</td>
+    <td>San Francisco</td>
+  </tr>
+</table>
