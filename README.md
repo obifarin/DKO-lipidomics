@@ -4,7 +4,7 @@ Code base for the study: "Machine Learning Reveals Lipidome Remodeling Dynamics 
 
 ## Requirements
 
-- __(Anaconda)[https://www.anaconda.com/]__
+- __[Anaconda](https://www.anaconda.com/)__
 
 Notebook titles are self explanatory. 
 
