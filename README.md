@@ -10,7 +10,6 @@ Code base for the study: **"Machine Learning Reveals Lipidome Remodeling Dynamic
 
 Notebook titles are self explanatory. 
 
-To reproduce result use our .yml environment. Details of packages used are also presented in the methods section of our paper. 
 
 ## 1. git repository
 
@@ -23,6 +22,4 @@ git clone https://github.com/obifarin/DKO-lipidomics
 ## 2. Environment setup
 Setup python environment
 
-In a terminal, switch to the directory of the local git repository.
 
-conda env create --force --file environment.yml
