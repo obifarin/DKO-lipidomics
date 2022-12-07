@@ -35,7 +35,11 @@ Setup python environment with dko-gatech.yml in the terminal
     <td>Global significant changes: univariate statistical testing and unsupervised learning.</td>
   </tr>
   <tr>
-    <td>Jane Smith</td>
-    <td>27</td>
+    <td>2_lipidomic_trajectory_clusters.ipynb</td>
+    <td>Lipidome alterations in response to ovarian cancer progression.</td>
+  </tr>
+   <tr>
+    <td>3_machine_learning_DKO_classification.ipynb</td>
+    <td>Time-resolved machine learning discriminates tumor stages of HGSC in DKO mice.</td>
   </tr>
 </table>
