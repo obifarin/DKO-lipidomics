@@ -1,6 +1,6 @@
 # DKO-lipidomics
  
-Code base for the study: "Machine Learning Reveals Lipidome Remodeling Dynamics in a Mouse Model of Ovarian Cancer."
+Code base for the study: **"Machine Learning Reveals Lipidome Remodeling Dynamics in a Mouse Model of Ovarian Cancer."**
 
 ## Requirements
 
