@@ -48,4 +48,8 @@ Setup python environment (`dko-gatech.yml`) in the terminal.
     <td>4_survival_analysis_prognostics.ipynb</td>
     <td>Prognostic circulating lipids in DKO mice.</td>
   </tr>
+    <tr>
+    <td>5_ML_DKO_permutation_test.ipynb</td>
+    <td>Permutation tests for ML model validation.</td>
+  </tr>
 </table>
